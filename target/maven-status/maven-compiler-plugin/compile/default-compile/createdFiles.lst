@@ -1,0 +1,5 @@
+com\littlejenny\autoconfigure\MyProxyAutoConfigure.class
+com\littlejenny\beanprocess\MyBeanDefinitionRegistryPostProcessor.class
+com\littlejenny\annotation\MyAnnotation.class
+com\littlejenny\proxy\ProxyFactory$1.class
+com\littlejenny\proxy\ProxyFactory.class
